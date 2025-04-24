@@ -1,3 +1,6 @@
 [submodule "EDA on Global Terrorism"]
 	path = EDA on Global Terrorism
 	url = https://github.com/arghadip2002/EDA-on-Global-Terrorism-Project01-GRIP-TSF
+[submodule "Supervised ML"]
+	path = Supervised ML
+	url = https://github.com/arghadip2002/prediction-using-supervised-ML-project02-GRIP-TSF
