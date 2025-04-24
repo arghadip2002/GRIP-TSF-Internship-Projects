@@ -4,3 +4,6 @@
 [submodule "Supervised ML"]
 	path = Supervised ML
 	url = https://github.com/arghadip2002/prediction-using-supervised-ML-project02-GRIP-TSF
+[submodule "Unsupervised ML"]
+	path = Unsupervised ML
+	url = https://github.com/arghadip2002/prediction-using-unsupervised-ML-project03-GRIP-TSF
